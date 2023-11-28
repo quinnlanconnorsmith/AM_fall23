@@ -143,9 +143,9 @@ print(t_23)
 #2018 - more in mcd 
 #2019 - more in mcd
 #2020 - mroe in mcd 
-#2021 - more in sb 
+#2021 - ns, more in sb 
 #2022 - more in sb 
-#2023 - more in sb 
+#2023 - ns, more in sb 
 
 #T-test day/night 
 #T-testing for each year
@@ -175,4 +175,26 @@ anova_17 <- lapply(unique(d$year), function(year) {
 # Print the results
 print(anova_17)
 
+
+
+# Intro 
+# Zoop/food web 
+# PRedation specifically on bosmina 
+#Introduce experiment/questions/hypotheses 
+
+#Methods 
+#Fish removal experiment  
+#Sample collection 
+#Lab analysis 
+
+#Results 
+#Describe what you found 
+
+#Discussion 
+#2017 as "normal" 
+#Flip to bosmina dominance in 2018-2020
+#Compensatory response by fish
+
+#Caveats - Carrying capacity / Ice phenology / other stuff 
+#Future direction - weird SB shift, physical characteristics of bosmina (body size, antennule length) 
 
